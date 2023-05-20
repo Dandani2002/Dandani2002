@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @Dandani2002, i'm Brazilian 🇧🇷
-- 👀 I’m interested in Music, Games.
-- 🌱 I’m currently learning Python and Java.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me danielcavalcanteoficial@hotmail.com
+- Me chamo Daniel (Dan, Danonel, Dani).
+- Apaixonado por Música, Videogames, Cinema.
+- Atualmente Estou aprendendo Javascript, Git, Docker.
+- Tenho conhecimento em Python, MySql, HTML & CSS, C++, React Native.
+- Fora da programação estou aprendendo edição de vídeo,
+- Contato: danielcavalcanteoficial@hotmail.com / danielcavalcanteoficial@gmail.com (menos usado)
 
 <!---
 Dandani2002/Dandani2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
